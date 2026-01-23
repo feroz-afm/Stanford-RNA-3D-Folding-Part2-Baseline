@@ -33,7 +33,7 @@ This baseline model provides a starting point for:
 - Hyperparameter tuning
 - Ensemble approaches
 
-##  Notebook
+##  Notebook 
 Kaggle Notebook:  
 https://www.kaggle.com/code/mdferozahmedafm/stanford-rna-3d-folding-part2-baseline
 
