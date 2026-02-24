@@ -15,7 +15,7 @@ Predicting RNA 3D structure is a challenging task that relies on identifying spa
 - Target: 3D structural coordinates
 - Task Type: Regression / Structure prediction
 
-##  Methods Used
+##  Methods Used-
 - PyTorch-based deep learning pipeline
 - Baseline neural network architecture
 - Standard training and validation workflow
